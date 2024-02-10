@@ -1,6 +1,6 @@
 const int micPin = A0;
-const int redLed = 5;
-const int greenLed = 3;
+const int redLed = 3;
+const int greenLed = 5;
 
 int micVal;
 
